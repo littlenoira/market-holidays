@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//VueSoft//CsvToIcs//EN
+X-WR-RELCALID:c7ab925b-d09f-4d24-983c-0fb4db5c9971
+X-WR-TIMEZONE:UTC
+BEGIN:VTIMEZONE
+TZID:GMT Standard Time
+BEGIN:STANDARD
+DTSTART:20231002T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYHOUR=2;BYMINUTE=0;BYMONTH=10
+TZNAME:GMT Standard Time
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20230301T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYHOUR=1;BYMINUTE=0;BYMONTH=3
+TZNAME:GMT Daylight Time
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:20231102T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYHOUR=2;BYMINUTE=0;BYMONTH=11
+TZNAME:Eastern Standard Time
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20230301T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYHOUR=2;BYMINUTE=0;BYMONTH=3
+TZNAME:Eastern Daylight Time
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).  Get your cop
+ y at  https://csv-to-ics.com. This notification can be removed by purchasi
+ ng  a license.   
+DTEND;VALUE=DATE:20250102
+DTSTAMP:20241226T194007Z
+DTSTART;VALUE=DATE:20250101
+SEQUENCE:1
+SUMMARY:New Year's Day
+UID:NASDAQ-20250101
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).  Get your cop
+ y at  https://csv-to-ics.com. This notification can be removed by purchasi
+ ng a license. \n
+DTEND;VALUE=DATE:20250121
+DTSTAMP:20241226T194007Z
+DTSTART;VALUE=DATE:20250120
+SEQUENCE:1
+SUMMARY:MLK\, Jr. Day
+UID:NASDAQ-20250120
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).  Get your cop
+ y at  https://csv-to-ics.com. This notification can be removed by purchasi
+ ng  a license.   \n
+DTEND;VALUE=DATE:20250218
+DTSTAMP:20241226T194007Z
+DTSTART;VALUE=DATE:20250217
+SEQUENCE:1
+SUMMARY:Presidents Day
+UID:NASDAQ-20250217
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).    \nGet you
+ r copy at https://csv-to-ics.com. \nThis notification can be removed by pu
+ rchasing  a license.  
+DTEND;VALUE=DATE:20250419
+DTSTAMP:20241226T194007Z
+DTSTART;VALUE=DATE:20250418
+SEQUENCE:1
+SUMMARY:Good Friday
+UID:NASDAQ-20250418
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).  Get your cop
+ y at https://csv-to-ics.com. \nThis notification can be removed by purchas
+ ing  a license.   \n
+DTEND;VALUE=DATE:20250527
+DTSTAMP:20241226T194007Z
+DTSTART;VALUE=DATE:20250526
+SEQUENCE:1
+SUMMARY:Memorial Day
+UID:NASDAQ-20250526
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition). \nGet your co
+ py at https://csv-to-ics.com. This notification can be removed by purchasi
+ ng a license.    
+DTEND;VALUE=DATE:20250620
+DTSTAMP:20241226T194007Z
+DTSTART;VALUE=DATE:20250619
+SEQUENCE:1
+SUMMARY:Juneteenth
+UID:NASDAQ-20250619
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Early Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).    \nGet your
+  copy at https://csv-to-ics.com. This notification can be removed by purch
+ asing  a license. 
+DTEND;VALUE=DATE:20250704
+DTSTAMP:20241226T194007Z
+DTSTART;VALUE=DATE:20250703
+SEQUENCE:1
+SUMMARY:Early Close (1pm)
+UID:NASDAQ-20250703
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).    Get your c
+ opy at  https://csv-to-ics.com. This notification can be removed by purcha
+ sing  a license.  \n
+DTEND;VALUE=DATE:20250705
+DTSTAMP:20241226T194007Z
+DTSTART;VALUE=DATE:20250704
+SEQUENCE:1
+SUMMARY:Independence Day
+UID:NASDAQ-20250704
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition). Get your copy
+  at https://csv-to-ics.com.  \nThis notification can be removed by purchas
+ ing  a license.  \n
+DTEND;VALUE=DATE:20250902
+DTSTAMP:20241226T194007Z
+DTSTART;VALUE=DATE:20250901
+SEQUENCE:1
+SUMMARY:Labor Day
+UID:NASDAQ-20250901
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition). Get your copy
+  at  https://csv-to-ics.com.  This notification can be removed by purchasi
+ ng a license.    
+DTEND;VALUE=DATE:20251128
+DTSTAMP:20241226T194007Z
+DTSTART;VALUE=DATE:20251127
+SEQUENCE:1
+SUMMARY:Thanksgiving Day
+UID:NASDAQ-20251127
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Early Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition). Get your cop
+ y at https://csv-to-ics.com. \nThis notification can be removed by purchas
+ ing  a license.  
+DTEND;VALUE=DATE:20251129
+DTSTAMP:20241226T194007Z
+DTSTART;VALUE=DATE:20251128
+SEQUENCE:1
+SUMMARY:Early Close (1pm)
+UID:NASDAQ-20251128
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Early Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).   Get your co
+ py at https://csv-to-ics.com.  \nThis notification can be removed by purch
+ asing a license.    
+DTEND;VALUE=DATE:20251225
+DTSTAMP:20241226T194007Z
+DTSTART;VALUE=DATE:20251224
+SEQUENCE:1
+SUMMARY:Early Close (1pm)
+UID:NASDAQ-20251224
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition). Get your copy
+  at  https://csv-to-ics.com. \nThis notification can be removed by purchas
+ ing  a license.  \n
+DTEND;VALUE=DATE:20251226
+DTSTAMP:20241226T194007Z
+DTSTART;VALUE=DATE:20251225
+SEQUENCE:1
+SUMMARY:Christmas Day
+UID:NASDAQ-20251225
+END:VEVENT
+END:VCALENDAR

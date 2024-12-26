@@ -1,0 +1,14 @@
+Title,Category,Start,Time Zone,All Day,Organizer,ID,X-WR-CALNAME
+New Year's Day,Market Close,01/01/25,Eastern Standard Time,Yes,NASDAQ,NASDAQ-20250101,NASDAQ Market Holiday
+"MLK, Jr. Day",Market Close,01/20/25,Eastern Standard Time,Yes,NASDAQ,NASDAQ-20250120,NASDAQ Market Holiday
+Presidents Day,Market Close,02/17/25,Eastern Standard Time,Yes,NASDAQ,NASDAQ-20250217,NASDAQ Market Holiday
+Good Friday,Market Close,04/18/25,Eastern Standard Time,Yes,NASDAQ,NASDAQ-20250418,NASDAQ Market Holiday
+Memorial Day,Market Close,05/26/25,Eastern Standard Time,Yes,NASDAQ,NASDAQ-20250526,NASDAQ Market Holiday
+Juneteenth,Market Close,06/19/25,Eastern Standard Time,Yes,NASDAQ,NASDAQ-20250619,NASDAQ Market Holiday
+Early Close (1pm),Early Close,07/03/25,Eastern Standard Time,Yes,NASDAQ,NASDAQ-20250703,NASDAQ Market Holiday
+Independence Day,Market Close,07/04/25,Eastern Standard Time,Yes,NASDAQ,NASDAQ-20250704,NASDAQ Market Holiday
+Labor Day,Market Close,09/01/25,Eastern Standard Time,Yes,NASDAQ,NASDAQ-20250901,NASDAQ Market Holiday
+Thanksgiving Day,Market Close,11/27/25,Eastern Standard Time,Yes,NASDAQ,NASDAQ-20251127,NASDAQ Market Holiday
+Early Close (1pm),Early Close,11/28/25,Eastern Standard Time,Yes,NASDAQ,NASDAQ-20251128,NASDAQ Market Holiday
+Early Close (1pm),Early Close,12/24/25,Eastern Standard Time,Yes,NASDAQ,NASDAQ-20251224,NASDAQ Market Holiday
+Christmas Day,Market Close,12/25/25,Eastern Standard Time,Yes,NASDAQ,NASDAQ-20251225,NASDAQ Market Holiday
