@@ -33,46 +33,167 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 CATEGORIES:Market Close
-DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).  Get your co
- py at https://csv-to-ics.com.  This notification can be removed by purchas
- ing a license.   \n
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).    Get your 
+ copy at  https://csv-to-ics.com. This notification can be removed by purch
+ asing  a license.  \n
 DTEND;VALUE=DATE:20250102
-DTSTAMP:20241226T144210Z
+DTSTAMP:20241226T153433Z
 DTSTART;VALUE=DATE:20250101
 SUMMARY:The first day of January
 UID:HKEX-20250101
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Market Close
-DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).  \nGet your 
- copy at https://csv-to-ics.com. \nThis notification can be removed by purc
- hasing  a license.  
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).  Get your co
+ py at  https://csv-to-ics.com. \nThis notification can be removed by purch
+ asing  a license.    \n
 DTEND;VALUE=DATE:20250130
-DTSTAMP:20241226T144210Z
+DTSTAMP:20241226T153433Z
 DTSTART;VALUE=DATE:20250129
-SUMMARY:Lunar New Year�s Day
+SUMMARY:Lunar New Year's Day
 UID:HKEX-20250129
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Market Close
-DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition). Get your copy
-  at https://csv-to-ics.com.  \nThis notification can be removed by purchas
- ing  a license.   \n
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).  Get your cop
+ y at https://csv-to-ics.com. This notification can be removed by purchasin
+ g  a license.   \n
 DTEND;VALUE=DATE:20250131
-DTSTAMP:20241226T144210Z
+DTSTAMP:20241226T153433Z
 DTSTART;VALUE=DATE:20250130
 SUMMARY:The second day of Lunar New Year
 UID:HKEX-20250130
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Market Close
-DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition). \nGet your c
- opy at https://csv-to-ics.com. This notification can be removed by purchas
- ing a license. \n
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).   \nGet your
+  copy at https://csv-to-ics.com. This notification can be removed by purch
+ asing a license.  
 DTEND;VALUE=DATE:20250201
-DTSTAMP:20241226T144210Z
+DTSTAMP:20241226T153433Z
 DTSTART;VALUE=DATE:20250131
 SUMMARY:The third day of Lunar New Year
 UID:HKEX-20250131
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).    Get your 
+ copy at  https://csv-to-ics.com.  \nThis notification can be removed by pu
+ rchasing a license.    \n
+DTEND;VALUE=DATE:20250405
+DTSTAMP:20241226T153433Z
+DTSTART;VALUE=DATE:20250404
+SUMMARY:Ching Ming Festival
+UID:HKEX-20250404
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).  \nGet your 
+ copy at  https://csv-to-ics.com.  \nThis notification can be removed by pu
+ rchasing a license.   \n
+DTEND;VALUE=DATE:20250419
+DTSTAMP:20241226T153433Z
+DTSTART;VALUE=DATE:20250418
+SUMMARY:Good Friday
+UID:HKEX-20250418
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).   Get your c
+ opy at https://csv-to-ics.com. This notification can be removed by purchas
+ ing a license.    
+DTEND;VALUE=DATE:20250422
+DTSTAMP:20241226T153433Z
+DTSTART;VALUE=DATE:20250421
+SUMMARY:Easter Monday
+UID:HKEX-20250421
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).    \nGet your
+  copy at  https://csv-to-ics.com.  This notification can be removed by pur
+ chasing  a license.  
+DTEND;VALUE=DATE:20250502
+DTSTAMP:20241226T153433Z
+DTSTART;VALUE=DATE:20250501
+SUMMARY:Labour Day
+UID:HKEX-20250501
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).    Get your 
+ copy at  https://csv-to-ics.com.  \nThis notification can be removed by pu
+ rchasing a license.   
+DTEND;VALUE=DATE:20250506
+DTSTAMP:20241226T153433Z
+DTSTART;VALUE=DATE:20250505
+SUMMARY:The Birthday of the Buddha
+UID:HKEX-20250505
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).    Get your c
+ opy at  https://csv-to-ics.com. \nThis notification can be removed by purc
+ hasing a license. \n
+DTEND;VALUE=DATE:20250702
+DTSTAMP:20241226T153433Z
+DTSTART;VALUE=DATE:20250701
+SUMMARY:Hong Kong Special Administrative Region Establishment Day
+UID:HKEX-20250701
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition). \nGet your co
+ py at https://csv-to-ics.com.  This notification can be removed by purchas
+ ing  a license. 
+DTEND;VALUE=DATE:20251002
+DTSTAMP:20241226T153433Z
+DTSTART;VALUE=DATE:20251001
+SUMMARY:National Day
+UID:HKEX-20251001
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).  Get your co
+ py at  https://csv-to-ics.com.  This notification can be removed by purcha
+ sing a license. \n
+DTEND;VALUE=DATE:20251008
+DTSTAMP:20241226T153433Z
+DTSTART;VALUE=DATE:20251007
+SUMMARY:The day following the Chinese Mid-Autumn Festival
+UID:HKEX-20251007
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).  Get your cop
+ y at https://csv-to-ics.com.  \nThis notification can be removed by purcha
+ sing a license. \n
+DTEND;VALUE=DATE:20251030
+DTSTAMP:20241226T153433Z
+DTSTART;VALUE=DATE:20251029
+SUMMARY:Chung Yeung Festival
+UID:HKEX-20251029
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).    \nGet your
+  copy at https://csv-to-ics.com.  This notification can be removed by purc
+ hasing  a license. 
+DTEND;VALUE=DATE:20251226
+DTSTAMP:20241226T153433Z
+DTSTART;VALUE=DATE:20251225
+SUMMARY:Christmas Day
+UID:HKEX-20251225
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition). \nGet your co
+ py at https://csv-to-ics.com.  \nThis notification can be removed by purch
+ asing a license.   \n
+DTEND;VALUE=DATE:20251227
+DTSTAMP:20241226T153433Z
+DTSTART;VALUE=DATE:20251226
+SUMMARY:The first weekday after Christmas Day
+UID:HKEX-20251226
 END:VEVENT
 END:VCALENDAR

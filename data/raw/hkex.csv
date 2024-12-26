@@ -1,5 +1,16 @@
-Title,Category,Start,Time Zone,All Day,Organizer,ID
-The first day of January,Market Close,01/01/25,China Standard Time,Yes,HKEX,HKEX-20250101
-Lunar New Year’s Day,Market Close,01/29/25,China Standard Time,Yes,HKEX,HKEX-20250129
-The second day of Lunar New Year,Market Close,01/30/25,China Standard Time,Yes,HKEX,HKEX-20250130
-The third day of Lunar New Year,Market Close,01/31/25,China Standard Time,Yes,HKEX,HKEX-20250131
+Title,Category,Start,Time Zone,All Day,Organizer,ID,X-WR-CALNAME
+The first day of January,Market Close,01/01/25,China Standard Time,Yes,HKEX,HKEX-20250101,HKEX Market Holiday
+Lunar New Year's Day,Market Close,01/29/25,China Standard Time,Yes,HKEX,HKEX-20250129,HKEX Market Holiday
+The second day of Lunar New Year,Market Close,01/30/25,China Standard Time,Yes,HKEX,HKEX-20250130,HKEX Market Holiday
+The third day of Lunar New Year,Market Close,01/31/25,China Standard Time,Yes,HKEX,HKEX-20250131,HKEX Market Holiday
+Ching Ming Festival,Market Close,04/04/25,China Standard Time,Yes,HKEX,HKEX-20250404,HKEX Market Holiday
+Good Friday,Market Close,04/18/25,China Standard Time,Yes,HKEX,HKEX-20250418,HKEX Market Holiday
+Easter Monday,Market Close,04/21/25,China Standard Time,Yes,HKEX,HKEX-20250421,HKEX Market Holiday
+Labour Day,Market Close,05/01/25,China Standard Time,Yes,HKEX,HKEX-20250501,HKEX Market Holiday
+The Birthday of the Buddha,Market Close,05/05/25,China Standard Time,Yes,HKEX,HKEX-20250505,HKEX Market Holiday
+Hong Kong Special Administrative Region Establishment Day,Market Close,07/01/25,China Standard Time,Yes,HKEX,HKEX-20250701,HKEX Market Holiday
+National Day,Market Close,10/01/25,China Standard Time,Yes,HKEX,HKEX-20251001,HKEX Market Holiday
+The day following the Chinese Mid-Autumn Festival,Market Close,10/07/25,China Standard Time,Yes,HKEX,HKEX-20251007,HKEX Market Holiday
+Chung Yeung Festival,Market Close,10/29/25,China Standard Time,Yes,HKEX,HKEX-20251029,HKEX Market Holiday
+Christmas Day,Market Close,12/25/25,China Standard Time,Yes,HKEX,HKEX-20251225,HKEX Market Holiday
+The first weekday after Christmas Day,Market Close,12/26/25,China Standard Time,Yes,HKEX,HKEX-20251226,HKEX Market Holiday
