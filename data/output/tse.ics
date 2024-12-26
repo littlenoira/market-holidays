@@ -1,0 +1,287 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//VueSoft//CsvToIcs//EN
+X-WR-RELCALID:a499a5cf-b57a-443a-aa13-a4d961453d55
+X-WR-TIMEZONE:UTC
+BEGIN:VTIMEZONE
+TZID:GMT Standard Time
+BEGIN:STANDARD
+DTSTART:20231002T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYHOUR=2;BYMINUTE=0;BYMONTH=10
+TZNAME:GMT Standard Time
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20230301T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYHOUR=1;BYMINUTE=0;BYMONTH=3
+TZNAME:GMT Daylight Time
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Tokyo Standard Time
+BEGIN:STANDARD
+DTSTART;VALUE=DATE:20230101
+TZNAME:Tokyo Standard Time
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).    Get your c
+ opy at https://csv-to-ics.com.  \nThis notification can be removed by purc
+ hasing  a license.    
+DTEND;VALUE=DATE:20250101
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20241231
+SUMMARY:Market Holiday
+UID:TSE-20241231
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).   \nGet your 
+ copy at https://csv-to-ics.com.  This notification can be removed by purch
+ asing a license.  
+DTEND;VALUE=DATE:20250102
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250101
+SUMMARY:New Year's Day
+UID:TSE-20250101
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).  \nGet your 
+ copy at https://csv-to-ics.com.  \nThis notification can be removed by pur
+ chasing  a license.   
+DTEND;VALUE=DATE:20250103
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250102
+SUMMARY:Market Holiday
+UID:TSE-20250102
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition). \nGet your co
+ py at  https://csv-to-ics.com. This notification can be removed by purchas
+ ing a license.   
+DTEND;VALUE=DATE:20250104
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250103
+SUMMARY:Market Holiday
+UID:TSE-20250103
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).  \nGet your 
+ copy at https://csv-to-ics.com.  This notification can be removed by purch
+ asing a license.  
+DTEND;VALUE=DATE:20250114
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250113
+SUMMARY:Coming of Age Day
+UID:TSE-20250113
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).   Get your c
+ opy at https://csv-to-ics.com. \nThis notification can be removed by purch
+ asing a license. \n
+DTEND;VALUE=DATE:20250212
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250211
+SUMMARY:National Foundation Day
+UID:TSE-20250211
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).  \nGet your c
+ opy at  https://csv-to-ics.com.  This notification can be removed by purch
+ asing  a license.  
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250223
+SUMMARY:Emperor's Birthday
+UID:TSE-20250223
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).   \nGet your
+  copy at https://csv-to-ics.com. This notification can be removed by purch
+ asing  a license.   \n
+DTEND;VALUE=DATE:20250225
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250224
+SUMMARY:Emperor's Birthday (Feb. 23) observed
+UID:TSE-20250224
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).   Get your co
+ py at https://csv-to-ics.com.  \nThis notification can be removed by purch
+ asing a license.   
+DTEND;VALUE=DATE:20250321
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250320
+SUMMARY:Vernal Equinox
+UID:TSE-20250320
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).   Get your co
+ py at https://csv-to-ics.com.  This notification can be removed by purchas
+ ing a license.   
+DTEND;VALUE=DATE:20250430
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250429
+SUMMARY:Showa Day
+UID:TSE-20250429
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).    Get your 
+ copy at https://csv-to-ics.com. This notification can be removed by purcha
+ sing a license.  
+DTEND;VALUE=DATE:20250504
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250503
+SUMMARY:Constitution Memorial Day
+UID:TSE-20250503
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).  Get your co
+ py at  https://csv-to-ics.com. This notification can be removed by purchas
+ ing  a license. \n
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250504
+SUMMARY:Greenery Day
+UID:TSE-20250504
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).    Get your c
+ opy at https://csv-to-ics.com. This notification can be removed by purchas
+ ing  a license.   \n
+DTEND;VALUE=DATE:20250506
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250505
+SUMMARY:Children's Day
+UID:TSE-20250505
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).  \nGet your 
+ copy at https://csv-to-ics.com. This notification can be removed by purcha
+ sing a license.    \n
+DTEND;VALUE=DATE:20250507
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250506
+SUMMARY:Greenery Day (May 4) observed
+UID:TSE-20250506
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition). Get your copy
+  at  https://csv-to-ics.com. This notification can be removed by purchasin
+ g a license. 
+DTEND;VALUE=DATE:20250722
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250721
+SUMMARY:Marine Day
+UID:TSE-20250721
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).   Get your c
+ opy at https://csv-to-ics.com. \nThis notification can be removed by purch
+ asing  a license. 
+DTEND;VALUE=DATE:20250812
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250811
+SUMMARY:Mountain Day
+UID:TSE-20250811
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).    \nGet your
+  copy at  https://csv-to-ics.com. This notification can be removed by purc
+ hasing  a license. \n
+DTEND;VALUE=DATE:20250916
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250915
+SUMMARY:Respect for the Aged Day
+UID:TSE-20250915
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition). Get your cop
+ y at https://csv-to-ics.com. \nThis notification can be removed by purchas
+ ing  a license.   
+DTEND;VALUE=DATE:20250924
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20250923
+SUMMARY:Autumnal Equinox
+UID:TSE-20250923
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).  Get your cop
+ y at  https://csv-to-ics.com.  This notification can be removed by purchas
+ ing a license. \n
+DTEND;VALUE=DATE:20251014
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20251013
+SUMMARY:Sports Day
+UID:TSE-20251013
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).  Get your co
+ py at  https://csv-to-ics.com. \nThis notification can be removed by purch
+ asing  a license.    
+DTEND;VALUE=DATE:20251104
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20251103
+SUMMARY:Culture Day
+UID:TSE-20251103
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).   Get your co
+ py at https://csv-to-ics.com.  This notification can be removed by purchas
+ ing  a license.  
+DTEND;VALUE=DATE:20251124
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20251123
+SUMMARY:Labor Thanksgiving Day
+UID:TSE-20251123
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).   Get your c
+ opy at  https://csv-to-ics.com. This notification can be removed by purcha
+ sing  a license. 
+DTEND;VALUE=DATE:20251125
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20251124
+SUMMARY:Labor Thanksgiving Day (Nov. 23) observed
+UID:TSE-20251124
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Market Close
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).   Get your co
+ py at https://csv-to-ics.com.  \nThis notification can be removed by purch
+ asing a license. \n
+DTEND;VALUE=DATE:20260101
+DTSTAMP:20241226T160111Z
+DTSTART;VALUE=DATE:20251231
+SUMMARY:Market Holiday
+UID:TSE-20251231
+END:VEVENT
+END:VCALENDAR
